@@ -278,6 +278,7 @@ const animationTimeline = () => {
       0.3
     )
     .to(".six", 0.5, {
+      fontSize: "20px",
       opacity: 0,
       y: 30,
       zIndex: "-1",
