@@ -14,7 +14,7 @@ function validateForm() {
     Swal.fire({
       icon: "success",
       title: "Login berhasil!",
-      text: "Selamat datang ayanggg",
+      text: "Selamat datang retta",
       showConfirmButton: false,
       timer: 1500,
     }).then(function () {
@@ -24,7 +24,7 @@ function validateForm() {
     Swal.fire({
       icon: "error",
       title: "Login gagal!",
-      text: "Coba cek lagi username sama passwordnya ya:)",
+      text: "Coba cek ulang username sama passwordnya",
       confirmButtonText: "Coba lagi",
       confirmButtonColor: "#ff7675",
     });
